@@ -8,7 +8,7 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
 <br>
 # Minecraft
 <br>
-[^^^ Back to top ^^^](#portable-apps)
+[Back to top](#portable-apps)
 <br>
 1. You'll want to head to the [releases page](https://github.com/portablemc/portablemc/releases/) and download the bat file
 2. Proceed to run the downloaded bat file (most likely in your downloads folder)
