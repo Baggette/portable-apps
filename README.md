@@ -6,7 +6,7 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
   - [Minecraft](#Minecraft)
 - Applications
 <br>
-###Minecraft
+[Minecraft](https://minecraft.net)
 <br>
 [Back to top](#portable-apps)
 <br>
