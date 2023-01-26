@@ -1,5 +1,6 @@
 # portable-apps
-A repo for games that are portable (ie: runs off of a usb or on a school pc without requiring any extra perms
+A repo for games that are portable (ie: runs off of a usb or on a school pc without requiring any extra perms (this will be mostly windows related)
+<br>
 [Minecraft](#Minecraft) 
 <br>
 <br>
