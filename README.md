@@ -3,7 +3,7 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
 <br>
 **Table Of Contents**
 - Games
- - [Minecraft](#Minecraft)
+  - [Minecraft](#Minecraft)
 - Applications
 <br>
 # Minecraft
