@@ -2,9 +2,11 @@
 A repo for games that are portable (ie: runs off of a usb or on a school pc without requiring any extra perms (this will be mostly windows related)
 <br>
 **Table Of Contents**
-- Games
+- [Games](#Games)
   - [Minecraft](#Minecraft)
-- Applications
+- [Applications](#Applications)
+
+## Games
 
 ### Minecraft
 
@@ -14,3 +16,5 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
 2. Proceed to run the downloaded bat file (most likely in your downloads folder)
 3. It will popup with a message that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. Profit, Minecraft should launch as usual
+
+## Applications
