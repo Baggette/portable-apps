@@ -15,7 +15,7 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
-Description: AssaultCube, also known as AC, is a free and open-source first-person shooter video game. It is a realistic, tactical, and fast-paced game that is inspired by the gameplay of the game "Cube". It features different game modes such as Deathmatch, Team Deathmatch, Capture the Flag, and Hold the Flag.
+AssaultCube, also known as AC, is a free and open-source first-person shooter video game. It is a realistic, tactical, and fast-paced game that is inspired by the gameplay of the game "Cube". It features different game modes such as Deathmatch, Team Deathmatch, Capture the Flag, and Hold the Flag.
 
 1. Head to [this website](https://portableapps.com/downloading/?a=AssaultCubePortable&s=s&p=&d=pa&n=AssaultCube%20Portable&f=AssaultCubePortable_1.3.0.2_English.paf.exe) and it will start downloading the exe
 2. Run the downloaded exe and select where to install it (eg: your usb drive)
@@ -26,7 +26,7 @@ Description: AssaultCube, also known as AC, is a free and open-source first-pers
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
-Description: Minecraft is a popular video game where players can build and explore virtual worlds made of blocks. The game has several different modes, including survival mode where players must gather resources and defend against monsters, and creative mode where players have unlimited resources and can build freely.
+Minecraft is a popular video game where players can build and explore virtual worlds made of blocks. The game has several different modes, including survival mode where players must gather resources and defend against monsters, and creative mode where players have unlimited resources and can build freely.
 
 1. Head to the [releases page](https://github.com/portablemc/portablemc/releases/) and download the bat file
 2. Proceed to run the downloaded bat file (most likely in your downloads folder)
@@ -39,7 +39,7 @@ Description: Minecraft is a popular video game where players can build and explo
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
-Description: Discord is a free and popular communication platform that is primarily used by gamers and communities. It offers a variety of features such as text, voice, and video chat, as well as the ability to create and join servers (virtual chat rooms) for specific groups or communities. Discord also offers the ability to share files, images, and videos, as well as integration with other apps and services. Many Discord servers also have roles and permissions that allow users to customize their experience and give them access to different features within the server.
+Discord is a free and popular communication platform that is primarily used by gamers and communities. It offers a variety of features such as text, voice, and video chat, as well as the ability to create and join servers (virtual chat rooms) for specific groups or communities. Discord also offers the ability to share files, images, and videos, as well as integration with other apps and services. Many Discord servers also have roles and permissions that allow users to customize their experience and give them access to different features within the server.
 
 1. Head to the [releases page](https://github.com/daemondevin/DiscordPortable/releases/) and download the exe shown under `Assets`
 2. Run the downloaded exe and select where to install it (eg: your usb drive)
@@ -50,7 +50,7 @@ Description: Discord is a free and popular communication platform that is primar
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
-Description: Google Chrome is a free web browser developed and maintained by Google. It is available for Windows, Mac, and Linux operating systems, as well as for Android and iOS mobile devices. Chrome is known for its speed, stability, and security. It also has a large library of extensions and apps that can be added to the browser to customize and enhance the browsing experience
+Google Chrome is a free web browser developed and maintained by Google. It is available for Windows, Mac, and Linux operating systems, as well as for Android and iOS mobile devices. Chrome is known for its speed, stability, and security. It also has a large library of extensions and apps that can be added to the browser to customize and enhance the browsing experience
 
 1. Head to [this website](https://portableapps.com/downloading/?a=GoogleChromePortable&s=s&p=&d=pa&n=Google%20Chrome%20Portable&f=GoogleChromePortable_109.0.5414.120_online.paf.exe) and it will start downloading the exe
 2. Run the downloaded exe and select where to install it (eg: your usb drive)
