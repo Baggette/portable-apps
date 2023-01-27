@@ -6,6 +6,7 @@ A repo for games that are portable (ie: runs off of a usb or on a school pc with
   - [Minecraft](#Minecraft)
 - [Applications](#Applications)
   - [Discord](#Discord)
+  - [Google Chrome](#Google Chrome)
 
 ## Games
 
