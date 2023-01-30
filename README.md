@@ -8,7 +8,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 - [Applications](#Applications)
   - [Discord](#Discord)
   - [Chrome](#Chrome)
-- [Contributing]
+- [Contributing](#Contributing)
 
 ## Games
 
