@@ -8,6 +8,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 - [Applications](#Applications)
   - [Discord](#Discord)
   - [Chrome](#Chrome)
+- [Contributing]
 
 ## Games
 
@@ -57,3 +58,5 @@ Google Chrome is a free web browser developed and maintained by Google. It is av
 3. It may cause a popup that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. open the location that you installed to (eg: E:\GoogleChromePortable) and run the GoogleChromePortable.exe file (refer to step 3 if it has the popup)
 
+## Contributing 
+Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
