@@ -70,7 +70,7 @@ Steam is a digital storefront and platform developed by Valve Corporation that p
 1. Go to this [url](https://raw.githubusercontent.com/MarioMasta64/EverythingPortable/master/launch_steam.bat)
 2. Right click on the webpage and click save as, when the window pops up to save it change the save as type to all files.
 3. Go to the location of the downloaded file and double click it, a window will popup saying that windows protected your pc. Click more info and then click run anyway.
-4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter
+4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter <br>
 (Optional: type `a` and then press enter, this will download some dlls and may help with dll errors with games)
 5. Type 2 and press enter to launch steam
 6. You can now use steam as usual, it may say something about the service not being installed but you can ignore that.
