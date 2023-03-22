@@ -9,6 +9,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Discord](#Discord)
   - [Chrome](#Chrome)
 - [Contributing](#Contributing)
+- [Special Thanks](#Special Thanks)
 
 ## Games
 
@@ -60,3 +61,7 @@ Google Chrome is a free web browser developed and maintained by Google. It is av
 
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
+## Special Thanks
+Special thanks to all of these awesome portable projects, without them this repo would not be possible.
+[EverythingPortable](https://github.com/MarioMasta64/EverythingPortable)
+[Portable Apps](https://portableapps.com/)
