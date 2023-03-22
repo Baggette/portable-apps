@@ -67,7 +67,7 @@ Google Chrome is a free web browser developed and maintained by Google. It is av
 <br>
 Steam is a digital storefront and platform developed by Valve Corporation that primarily focuses on providing a one-stop-shop for purchasing, downloading, and playing video games on your computer. It was first launched in 2003 and quickly grew to become one of the most popular digital distribution platforms for PC games.
 
-1. Go to this (url)[https://raw.githubusercontent.com/MarioMasta64/EverythingPortable/master/launch_steam.bat]
+1. Go to this [url][https://raw.githubusercontent.com/MarioMasta64/EverythingPortable/master/launch_steam.bat]
 2. Right click on the webpage and click save as, when the window pops up to save it change the save as type to all files.
 3. Go to the location of the downloaded file and double click it, a window will popup saying that windows protected your pc. Click more info and then click run anyway.
 4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter
