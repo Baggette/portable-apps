@@ -7,6 +7,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Minecraft](#Minecraft)
 - [Applications](#Applications)
   - [Discord](#Discord)
+  - [Dolphin](#Dolphin)
   - [Chrome](#Chrome)
   - [Steam](#Steam)
 - [Contributing](#Contributing)
@@ -48,6 +49,17 @@ Discord is a free and popular communication platform that is primarily used by g
 2. Run the downloaded exe and select where to install it (eg: your usb drive)
 3. It may cause a popup that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. open the location that you installed to (eg: E:\DiscordPortable) and run the DiscordPortable.exe file (refer to step 3 if it has the popup)
+
+### Dolphin
+<br>
+Dolphin is an open-source emulator for Nintendo's Wii and GameCube consoles, enabling users to play games on various platforms, including Windows, macOS, and Linux. It enhances the gaming experience with improved graphics, compatibility, and controller support, making classic titles accessible and enjoyable on modern devices.
+
+1. Go to this [url](https://github.com/MarioMasta64/EverythingPortable/raw/master/launch_dolphin.bat)
+2. Right click on the webpage and click save as, when the window pops up to save it change the save as type to all files.
+3. Go to the location of the downloaded file and double click it, a window will popup saying that windows protected your pc. Click more info and then click run anyway.
+4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter <br>
+5. Type `a` and then press enter, this will download some required dlls for dolphin, when its done you may close that console window and go back to the other one.
+5. Type 2 and press enter to launch dolphin
 
 ### Chrome
 
