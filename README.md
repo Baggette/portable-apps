@@ -5,6 +5,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 - [Games](#Games)
   - [AssaultCube](#AssaultCube)
   - [Minecraft](#Minecraft)
+  - [Super Smash Flash 2](#SSF2)
 - [Applications](#Applications)
   - [Discord](#Discord)
   - [Dolphin](#Dolphin)
@@ -12,7 +13,6 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Chrome](#Chrome)
   - [PPSSPP](#PPSSPP)
   - [Steam](#Steam)
-  - [Super Smash Flash 2](#SSF2)
 - [Contributing](#Contributing)
 - [Thanks](#Thanks)
 
