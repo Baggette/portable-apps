@@ -10,6 +10,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Dolphin](#Dolphin)
   - [Cemu](#Cemu)
   - [Chrome](#Chrome)
+  - [PPSSPP](#PPSSPP)
   - [Steam](#Steam)
 - [Contributing](#Contributing)
 - [Thanks](#Thanks)
@@ -100,6 +101,16 @@ Steam is a digital storefront and platform developed by Valve Corporation that p
 (Optional: type `a` and then press enter, this will download some dlls and may help with dll errors with games)
 5. Type 2 and press enter to launch steam
 6. You can now use steam as usual, it may say something about the service not being installed but you can ignore that.
+
+### PPSSPP
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+PPSSPP is an open-source PSP emulator that enables users to play PlayStation Portable games on various platforms, including Windows, Android, and iOS. It offers high-quality graphics, customizable controls, and enhanced performance, allowing for a seamless gaming experience.
+
+1. Go to [PPSSPP's download page](https://www.ppsspp.org/download) and scroll down and find "Windows" then click "Download zip file (portable)"
+2. When its done downloading extract it to your desired location (right click and click extract)
+3. Go to the location where you extracted the files and double click the ppsspp exe file and enjoy
 
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
