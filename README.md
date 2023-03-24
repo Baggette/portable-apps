@@ -126,7 +126,7 @@ Steam is a digital storefront and platform developed by Valve Corporation that p
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
 ## Thanks
-Special thanks to all of these awesome portable projects, without them this repo would not be possible. <br>
+Special thanks to all of these awesome projects, without them this repo would not be possible. <br>
 [EverythingPortable](https://github.com/MarioMasta64/EverythingPortable)<br>
 [Portable Apps](https://portableapps.com/)<br>
 [PPSSPP](https://www.ppsspp.org/)<br>
