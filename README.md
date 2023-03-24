@@ -8,6 +8,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 - [Applications](#Applications)
   - [Discord](#Discord)
   - [Dolphin](#Dolphin)
+  - [Cemu](#Cemu)
   - [Chrome](#Chrome)
   - [Steam](#Steam)
 - [Contributing](#Contributing)
@@ -63,6 +64,18 @@ Dolphin is an open-source emulator for Nintendo's Wii and GameCube consoles, ena
 5. Type `a` and then press enter, this will download some required dlls for dolphin, when its done you may close that console window and go back to the other one.
 5. Type 2 and press enter to launch dolphin
 
+### Cemu
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+Cemu is a Wii U emulator designed for Windows PCs, allowing users to play Wii U games on their computers. It offers high compatibility, enhanced graphics, and improved performance, providing an immersive gaming experience.
+
+1. Go to this [url](https://github.com/MarioMasta64/EverythingPortable/raw/master/launch_cemu.bat)
+2. Right click on the webpage and click save as, when the window pops up to save it change the save as type to all files.
+3. Go to the location of the downloaded file and double click it, a window will popup saying that windows protected your pc. Click more info and then click run anyway.
+4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter <br>
+5. Type `a` and then press enter, this will download some required dlls for cemu, when its done you may close that console window and go back to the other one.
+5. Type 2 and press enter to launch cemu
 ### Chrome
 
 [`^^^ Back to top ^^^`](#portable-apps)
