@@ -51,6 +51,8 @@ Discord is a free and popular communication platform that is primarily used by g
 4. open the location that you installed to (eg: E:\DiscordPortable) and run the DiscordPortable.exe file (refer to step 3 if it has the popup)
 
 ### Dolphin
+
+[`^^^ Back to top ^^^`](#portable-apps)
 <br>
 Dolphin is an open-source emulator for Nintendo's Wii and GameCube consoles, enabling users to play games on various platforms, including Windows, macOS, and Linux. It enhances the gaming experience with improved graphics, compatibility, and controller support, making classic titles accessible and enjoyable on modern devices.
 
@@ -73,7 +75,6 @@ Google Chrome is a free web browser developed and maintained by Google. It is av
 4. open the location that you installed to (eg: E:\GoogleChromePortable) and run the GoogleChromePortable.exe file (refer to step 3 if it has the popup)
 
 ### Steam
-
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
