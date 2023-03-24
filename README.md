@@ -12,6 +12,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Chrome](#Chrome)
   - [PPSSPP](#PPSSPP)
   - [Steam](#Steam)
+  - [Super Smash Flash 2](#SSF2)
 - [Contributing](#Contributing)
 - [Thanks](#Thanks)
 
@@ -38,6 +39,16 @@ Minecraft is a popular video game where players can build and explore virtual wo
 2. Proceed to run the downloaded bat file (most likely in your downloads folder)
 3. It will popup with a message that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. Profit, Minecraft should launch as usual
+
+### SSF2
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+Super Smash Flash 2 is a fan-created fighting game inspired by Nintendo's Super Smash Bros series. It boasts a varied roster of characters from multiple gaming franchises, who engage in fast-paced battles on diverse stages, aiming to knock opponents off-screen.
+
+1. Go to SSF2's [download page](https://www.supersmashflash.com/play/ssf2/downloads/) and click on one of the "Windows 64-bit (Portable)" links
+2. When it is done downloading extract the folder to your desired location (eg: your usb drive)
+3. Launch the ssf2 exe file and you're set, enjoy
 
 ## Applications
 
@@ -88,6 +99,16 @@ Google Chrome is a free web browser developed and maintained by Google. It is av
 3. It may cause a popup that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. open the location that you installed to (eg: E:\GoogleChromePortable) and run the GoogleChromePortable.exe file (refer to step 3 if it has the popup)
 
+### PPSSPP
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+PPSSPP is an open-source PSP emulator that enables users to play PlayStation Portable games on various platforms, including Windows, Android, and iOS. It offers high-quality graphics, customizable controls, and enhanced performance, allowing for a seamless gaming experience.
+
+1. Go to [PPSSPP's download page](https://www.ppsspp.org/download) and scroll down and find "Windows" then click "Download zip file (portable)"
+2. When its done downloading extract it to your desired location (right click and click extract)
+3. Go to the location where you extracted the files and double click the ppsspp exe file and enjoy
+
 ### Steam
 
 [`^^^ Back to top ^^^`](#portable-apps)
@@ -102,19 +123,11 @@ Steam is a digital storefront and platform developed by Valve Corporation that p
 5. Type 2 and press enter to launch steam
 6. You can now use steam as usual, it may say something about the service not being installed but you can ignore that.
 
-### PPSSPP
-
-[`^^^ Back to top ^^^`](#portable-apps)
-<br>
-PPSSPP is an open-source PSP emulator that enables users to play PlayStation Portable games on various platforms, including Windows, Android, and iOS. It offers high-quality graphics, customizable controls, and enhanced performance, allowing for a seamless gaming experience.
-
-1. Go to [PPSSPP's download page](https://www.ppsspp.org/download) and scroll down and find "Windows" then click "Download zip file (portable)"
-2. When its done downloading extract it to your desired location (right click and click extract)
-3. Go to the location where you extracted the files and double click the ppsspp exe file and enjoy
-
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
 ## Thanks
 Special thanks to all of these awesome portable projects, without them this repo would not be possible. <br>
 [EverythingPortable](https://github.com/MarioMasta64/EverythingPortable)<br>
 [Portable Apps](https://portableapps.com/)<br>
+[PPSSPP](https://www.ppsspp.org/)<br>
+[Super Smash Flash](https://www.supersmashflash.com)<br>
