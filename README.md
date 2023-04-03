@@ -4,7 +4,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 **Table Of Contents**
 - [Games](#Games)
   - [AssaultCube](#AssaultCube)
-  - [Half-life 2](#halflife2)
+  - [Half-life 2](#Half-life-2)
   - [Minecraft](#Minecraft)
   - [Super Smash Flash 2](#SSF2)
 - [Applications](#Applications)
@@ -20,7 +20,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
 
 ## Games
 
-## AssaultCube {#Assaultcube}
+### AssaultCube 
 
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
@@ -30,6 +30,16 @@ AssaultCube, also known as AC, is a free and open-source first-person shooter vi
 2. Run the downloaded exe and select where to install it (eg: your usb drive)
 3. It may cause a popup that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. open the location that you installed to (eg: E:\AssaultCubePortable) and run the AssaultCubePortable.exe file (refer to step 3 if it has the popup)
+
+### Half-life 2
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+Half-Life 2 is a first-person shooter game where the player takes on the role of scientist Gordon Freeman, who must fight against the Combine, an alien empire that has conquered Earth. The game features a mix of combat, exploration, and puzzles, and is known for its immersive storytelling, innovative physics engine, and memorable characters. 
+
+prerequisite, you must own the game through steam or other methods.
+1. Go to the location that you installed half-life 2 and copy the entire folder onto your usb drive
+2. Go to the location on your usb drive and launch the hl2.exe file and enjoy
 
 ### Minecraft
 
