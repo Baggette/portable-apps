@@ -15,6 +15,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [PPSSPP](#PPSSPP)
   - [Steam](#Steam)
   - [Tor](#Tor)
+- [Uncategorized](#Uncategorized)
 - [Contributing](#Contributing)
 - [Thanks](#Thanks)
 
@@ -147,6 +148,11 @@ Tor Browser is a free and open-source web browser that prioritizes user privacy 
 4. Press any key in the terminal and wait for it to load, when it loads a bunch of options press 1 and press enter <br>
 5. Type 2 and press enter to open tor.
 (FYI, if you're running this on a school network you may be unable to connect to tor. your millage may vary)
+
+## Uncategorized
+there are alot of games that do not have high system requirements that are on steam and do not have drm, this means you can copy the game's folder to your usb drive and use it anywhere. Alot of GOG games are good for this.
+
+There are also alot of programs that you can just copy their installed folder over to yout usb drive and it will work.
 
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
