@@ -1,7 +1,7 @@
 # portable-apps
 A repo for games and applications that are portable (ie: runs off of a usb or on a school pc without requiring any extra perms and this will be mostly windows related)
 <br>
-##**Table Of Contents**
+## Table Of Contents
 - [Games](#Games)
   - [AssaultCube](#AssaultCube)
   - [Half-life 2](#Half-life-2)
