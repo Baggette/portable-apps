@@ -8,6 +8,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [Minecraft](#Minecraft)
   - [Super Smash Flash 2](#SSF2)
 - [Applications](#Applications)
+  - [Blender](#Blender)
   - [Discord](#Discord)
   - [Dolphin](#Dolphin)
   - [Cemu](#Cemu)
@@ -64,6 +65,18 @@ Super Smash Flash 2 is a fan-created fighting game inspired by Nintendo's Super 
 3. Launch the ssf2 exe file and you're set, enjoy
 
 ## Applications
+
+### Blender
+
+Windows325MBPortable (.zip)
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+Blender is a free and open-source 3D creation software that can be used for creating animations, visual effects, video games, and 3D models. It offers a wide range of tools for modeling, sculpting, texturing, lighting, and rendering, making it a popular choice among artists, designers, and animators.
+
+1. Head to [Blender's download page](https://www.blender.org/download/) and then click mac, linux and other versions then click the Windows Portable (.zip) link.
+2. When its done downloading go to the location that it was downloaded and extract the files to where ever you want (eg: a usb drive)
+3. Enjoy blender (enjoy runnning it on a school pc 💀)
 
 ### Discord
 
