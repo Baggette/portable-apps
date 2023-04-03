@@ -38,7 +38,7 @@ AssaultCube, also known as AC, is a free and open-source first-person shooter vi
 <br>
 Half-Life 2 is a first-person shooter game where the player takes on the role of scientist Gordon Freeman, who must fight against the Combine, an alien empire that has conquered Earth. The game features a mix of combat, exploration, and puzzles, and is known for its immersive storytelling, innovative physics engine, and memorable characters. 
 
-prerequisite, you must own the game through steam or other methods.
+prerequisite, you must own the game through steam or other methods as redistrobuting it here is piracy.
 1. Go to the location that you installed half-life 2 and copy the entire folder onto your usb drive
 2. Go to the location on your usb drive and launch the hl2.exe file and enjoy
 
