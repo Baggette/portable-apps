@@ -68,8 +68,6 @@ Super Smash Flash 2 is a fan-created fighting game inspired by Nintendo's Super 
 
 ### Blender
 
-Windows325MBPortable (.zip)
-
 [`^^^ Back to top ^^^`](#portable-apps)
 <br>
 Blender is a free and open-source 3D creation software that can be used for creating animations, visual effects, video games, and 3D models. It offers a wide range of tools for modeling, sculpting, texturing, lighting, and rendering, making it a popular choice among artists, designers, and animators.
