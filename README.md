@@ -6,6 +6,7 @@ A repo for games and applications that are portable (ie: runs off of a usb or on
   - [AssaultCube](#AssaultCube)
   - [Half-life 2](#Half-life-2)
   - [Minecraft](#Minecraft)
+  - [Prism](#Prism)
   - [Super Smash Flash 2](#SSF2)
 - [Applications](#Applications)
   - [Blender](#Blender)
@@ -53,6 +54,17 @@ Minecraft is a popular video game where players can build and explore virtual wo
 2. Proceed to run the downloaded bat file (most likely in your downloads folder)
 3. It will popup with a message that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
 4. Profit, Minecraft should launch as usual
+
+### Prism
+
+[`^^^ Back to top ^^^`](#portable-apps)
+<br>
+Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+
+1. Head to the [releases page](https://github.com/RuiNtD/PrismLauncherPortable/releases/latest) and download the PrismLauncherPortable_x.x.paf.exe file
+2. Open the downloaded exe file 
+3. It will popup with a message that says "Windows Protected Your PC" you'll want to click "More info" and then run anayway
+4. Chose your desired location to install the program to and when its done you can open prism launcher.
 
 ### SSF2
 
@@ -164,6 +176,7 @@ Tor Browser is a free and open-source web browser that prioritizes user privacy 
 there are alot of games that do not have high system requirements that are on steam and do not have drm, this means you can copy the game's folder to your usb drive and use it anywhere. Alot of GOG games are good for this.
 
 There are also alot of programs that you can just copy their installed folder over to yout usb drive and it will work.
+You can also sometimes google the progam you want and add "paf" and you may find a portable app with what you want.
 
 ## Contributing 
 Feel free to open pull requests, request apps to be added, when opening a pul request please follow the formatting that has already been established. 
